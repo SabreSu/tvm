@@ -49,7 +49,7 @@ ci_gpu = "mbrookhart/tvm.ci-gpu_onnx_update"
 ci_cpu = "tlcpack/ci-cpu:v0.74"
 ci_wasm = "tlcpack/ci-wasm:v0.71"
 ci_i386 = "tlcpack/ci-i386:v0.73"
-ci_qemu = "tlcpack/ci-qemu:v0.05"
+ci_qemu = "mbrookhart/tvm.ci-qemu_onnx_update"
 ci_arm = "tlcpack/ci-arm:v0.05"
 // <--- End of regex-scanned config.
 
